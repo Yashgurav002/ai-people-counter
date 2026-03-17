@@ -1,0 +1,7 @@
+ultralytics
+opencv-python
+numpy
+gradio
+filterpy
+lap
+scikit-image==0.26.0
